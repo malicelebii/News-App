@@ -7,7 +7,7 @@
   <ul>
     <li>Download or clone the project</li>
     <li>Create new terminal at News-App folder</li>
-    <li>run <code>pod-install</code> command</li>
+    <li>run <code>pod install</code> command</li>
     <li>Create Config.plist file inside News-App folder</li>
     <li>Set your newsapi.org api key for header <b><code>apiKey</code></b> as String</li>
     <li>Run the project</li>
